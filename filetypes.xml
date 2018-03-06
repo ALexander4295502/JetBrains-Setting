@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="SFNotificationPage" type="PLAIN_TEXT" />
       <mapping pattern="SFNotificationMainPage" type="PLAIN_TEXT" />
+      <mapping pattern="SFWalletMainPage" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="reward" type="YAML" />
     </extensionMap>
