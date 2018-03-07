@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="SFWithdrawConfirmPage" type="PLAIN_TEXT" />
       <mapping pattern="SFNotificationPage" type="PLAIN_TEXT" />
       <mapping pattern="SFNotificationMainPage" type="PLAIN_TEXT" />
       <mapping pattern="SFWalletMainPage" type="PLAIN_TEXT" />
