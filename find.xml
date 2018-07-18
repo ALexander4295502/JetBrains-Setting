@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../themes/hugo-universal-theme/static/css/intro.css [sportik-website]'" />
+    <option name="defaultScopeName" value="File '.../themes/hugo-universal-theme/static/css/intro.css [sportik-website]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../themes/hugo-universal-theme/static/css/intro.css [sportik-website]'" />
   </component>
 </application>
