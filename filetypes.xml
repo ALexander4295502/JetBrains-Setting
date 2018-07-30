@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="SFNotificationMainPage" type="PLAIN_TEXT" />
-      <mapping pattern="SFNotificationPage" type="PLAIN_TEXT" />
+      <mapping pattern="MessengerComponent" type="JavaScript" />
       <mapping pattern="SFWalletMainPage" type="PLAIN_TEXT" />
+      <mapping pattern="SFNotificationMainPage" type="PLAIN_TEXT" />
       <mapping pattern="SFWithdrawConfirmPage" type="PLAIN_TEXT" />
+      <mapping pattern="SFNotificationPage" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="reward" type="YAML" />
     </extensionMap>
