@@ -6,7 +6,6 @@
       <mapping pattern="SFNotificationMainPage" type="PLAIN_TEXT" />
       <mapping pattern="SFWithdrawConfirmPage" type="PLAIN_TEXT" />
       <mapping pattern="SFNotificationPage" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="reward" type="YAML" />
     </extensionMap>
   </component>
